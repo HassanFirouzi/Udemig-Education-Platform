@@ -13,4 +13,5 @@ Header / Footer structure
 
 🖼️ ##Screen GIF
 
-![1765316710264105-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6cadee57-2d69-4058-a48c-d36f4bcc695e)
+
+![1765316710264105](https://github.com/user-attachments/assets/f08ec7ca-7be2-4c30-b4b6-cbcae2b9bf92)
