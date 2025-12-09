@@ -10,3 +10,5 @@ Course cards
 Category sections
 Hero area
 Header / Footer structure
+🖼️ ##Screen GIF
+![1765316710264105-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cff00461-d308-4cb2-811b-1955b74ee621)
