@@ -12,4 +12,4 @@ Hero area
 Header / Footer structure
 
 🖼️ ##Screen GIF
-![1765316710264105-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cff00461-d308-4cb2-811b-1955b74ee621)
+![1765316710264105-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6cadee57-2d69-4058-a48c-d36f4bcc695e)
