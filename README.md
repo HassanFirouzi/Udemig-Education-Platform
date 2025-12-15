@@ -11,7 +11,7 @@ Category sections
 Hero area
 Header / Footer structure
 
-## 🖼️ Screen GIF
+### 🖼️ Screen GIF
 
 ![1765316710264105](https://github.com/user-attachments/assets/3b23d3fa-28c3-4967-beab-2b16d854fbd7)
 
